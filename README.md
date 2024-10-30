@@ -15,5 +15,5 @@ Este proyecto es una aplicación CRUD (Crear, Leer, Actualizar, Eliminar) para g
 
 - **Backend**: JSP y Servlets
 - **Base de Datos**: MySQL, para almacenar y gestionar los datos de los empleados.
-- **Frontend**: HTML y CSS, para una interfaz de usuario clara y accesible.
+- **Frontend**: HTML y bootstrap, para una interfaz de usuario clara y accesible.
 - **Servidor de Aplicaciones**: Apache Tomcat, para ejecutar y desplegar la aplicación.
